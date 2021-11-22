@@ -27,3 +27,7 @@ this repository contains git and github files
     1. Potato
     2. Brinjal
     3. Tomato
+
+Table 1 | Table 2
+---------|---------
+NAME|Roll No.
